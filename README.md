@@ -68,9 +68,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Website Preview
 
-![Aseflow Website Screenshot](.images/SS/1.png)
-![Aseflow Website Screenshot](.images/SS/2.png)
-![Aseflow Website Screenshot](.images/SS/3.png)
-![Aseflow Website Screenshot](.images/SS/4.png)
-![Aseflow Website Screenshot](.images/SS/5.png)
+![Aseflow Website Screenshot](/images/SS/1.png)
+![Aseflow Website Screenshot](/images/SS/2.png)
+![Aseflow Website Screenshot](/images/SS/3.png)
+![Aseflow Website Screenshot](/images/SS/4.png)
+![Aseflow Website Screenshot](/images/SS/5.png)
 
