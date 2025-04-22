@@ -57,9 +57,6 @@ basic-website/
 ├── js/
 │   └── script.js
 ├── index.html
-├── server.js
-├── favicon.svg
-├── package.json
 └── README.md
 ```
 
