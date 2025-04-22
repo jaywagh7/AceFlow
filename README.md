@@ -21,30 +21,11 @@ This website is built using HTML, CSS, and vanilla JavaScript. It showcases Asef
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
-- Font Awesome for icons
-- Node.js (for local development server)
+- Javascript
+- Web3Form
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js installed on your machine
-
-### Installation
-
-1. Clone the repository or download the files
-2. Navigate to the project directory
-
-```bash
-cd basic-website
-```
-
-3. Start the local development server
-
-```bash
-node server.js
-```
 
 4. Open your browser and visit `http://localhost:3000`
 
