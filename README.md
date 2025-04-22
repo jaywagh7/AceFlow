@@ -3,6 +3,10 @@
 A responsive website for Aseflow - India's First Liquid Protein Shot.
 
 ## Description
+I'm currently working as an intern at Aseflow, a startup company where I have the opportunity to be the first employee and intern.
+This project is a company portfolio website I developed as part of my real-time internship experience, showcasing the brand, services, and vision of Aseflow.
+I was involved in every stage — from UI design to deploying the site live using Render with a custom domain (www.aseflow.com).
+This project reflects my learning, creativity, and growth as a developer in a startup environment.
 
 This website is built using HTML, CSS, and vanilla JavaScript. It showcases Aseflow, a liquid protein shot product that delivers 25g of protein in a convenient 40ml shot, available in both marine and vegan options.
 
@@ -38,9 +42,6 @@ basic-website/
 ├── js/
 │   └── script.js
 ├── index.html
-├── server.js
-├── favicon.svg
-├── package.json
 └── README.md
 ```
 
@@ -71,4 +72,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ![Aseflow Website Screenshot](.images/SS/2.png)
 ![Aseflow Website Screenshot](.images/SS/3.png)
 ![Aseflow Website Screenshot](.images/SS/4.png)
+<<<<<<< HEAD
 ![Aseflow Website Screenshot](.images/SS/5.png)
+=======
+![Aseflow Website Screenshot](.images/SS/5.png)
+>>>>>>> e1b672fa179d92ffa6c084774fb23f502bd25582
