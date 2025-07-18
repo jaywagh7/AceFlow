@@ -1,5 +1,6 @@
 # Aseflow Website
 
+I built this project for a startup during my internship. Though I’m no longer working there, I’m proud of what I created and continue to improve it.
 A responsive website for Aseflow - India's First Liquid Protein Shot.
 
 ## Description
